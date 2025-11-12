@@ -40,22 +40,27 @@ This repository contains an **Excel-based ecommerce sales dashboard** that summa
 
 ---
 
+
 ## 🧠 Skills Demonstrated
-- Data cleaning & transformation (Power Query)  
-- Pivot tables & pivot charts (aggregation & drill-down)  
-- KPI calculation & conditional formatting  
-- Excel formulas: `SUMIFS`, `IFERROR`, `XLOOKUP/VLOOKUP`, `EOMONTH`  
-- Dashboard design and visual storytelling
+- Data Cleaning and Transformation using **Excel Power Query**
+- Data Modeling with **Pivot Tables & Charts**
+- Dashboard Design and KPI Visualization
+- Advanced Excel Formulas (`SUMIFS`, `VLOOKUP`, `IFERROR`, `EOMONTH`)
+- Data-Driven Storytelling
+
+## 📊 Key Insights
+- 💰 Total Sales: ₹22,97,200.86  
+- 📈 Profit Growth: +14.41% YoY  
+- 🏆 Best Performing Category: Technology  
+- 🗓️ Peak Month: December  
+- 💹 Profit Margin: 12.47%
 
 ---
 
-## 📊 Key Metrics (from dashboard)
-- **Total Sales:** ₹22,97,200.86  
-- **Total Profit:** ₹2,86,397.02  
-- **Quantity (units):** 379 (as shown)  
-- **Orders:** 9,994  
-- **Profit Margin:** 12.47%  
-- **YOY Growth:** Sales +20.62%, Profit +14.41% (values visible on dashboard)
+## 📬 Contact
+**Pallavi Thimmareddy**  
+📧 pallavithimmareddy@example.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/pallavithimmareddy)
 
 
 
