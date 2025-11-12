@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  <em>Excel dashboard & analysis of ecommerce sales — pivot tables, charts, KPIs.</em>
+  <em>Monthly sales trend chart — shows seasonal patterns.</em>
 </p>
 
