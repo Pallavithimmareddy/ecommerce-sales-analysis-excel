@@ -15,7 +15,7 @@
 
 ## 📸 Dashboard Preview
 <p align="center">
-  <img src="reports/Dashborad.png" alt="Ecommerce Dashboard" width="900"/>
+  <img src="reports/Dashboard.png" alt="Ecommerce Dashboard" width="900"/>
 </p>
 
 <p align="center"><em>Excel dashboard & analysis of ecommerce sales — pivot tables, charts, KPIs.</em></p>
